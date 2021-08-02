@@ -10,3 +10,11 @@ OOD Detection
 
 
 
+# reference
+【1】https://github.com/hoya012/awesome-anomaly-detection
+【2】
+
+
+
+
+
