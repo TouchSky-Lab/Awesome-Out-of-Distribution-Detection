@@ -24,8 +24,8 @@ OOD Detection
 - Towards Maximizing the Representation Gap between In-Domain & Out-of-Distribution Examples | [NeurIPS' 20]
 - Why Normalizing Flows Fail to Detect Out-of-Distribution Data | [NeurIPS' 20] | [[paper]()][[code](https://github.com/PolinaKirichenko/flows_ood)]
 - Understanding Anomaly Detection with Deep Invertible Networks through Hierarchies of Distributions and Features | [NeurIPS' 20] |
-- Further Analysis of Outlier Detection with Deep Generative Models | [NeurIPS' 20] |  [[paper]()][[code](https://github.com/alinlab/CSI)]
-- CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances | [NeurIPS' 20] | 
+- Further Analysis of Outlier Detection with Deep Generative Models | [NeurIPS' 20] |  
+- CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances | [NeurIPS' 20] | [[paper]()][[code](https://github.com/alinlab/CSI)]
 
 
 # Out-of-Distribuiton with Few-shot Learning
