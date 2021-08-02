@@ -2,10 +2,9 @@
 OOD Detection
 
 # Out-of-Distribution Detection 
-- Generalized ODIN: Detecting Out-of-distribution Image without Learning from Out-of-distribution Data [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hsu_Generalized_ODIN_Detecting_Out-of-Distribution_Image_Without_Learning_From_Out-of-Distribution_Data_CVPR_2020_paper.pdf)]
 - A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks | [ICLR' 17] | [[paper]()] [[code](https://github.com/hendrycks/error-detection)] 
 - [ODIN] Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks | [ICLR' 18] | [pdf]
-- Generalized ODIN: Detecting Out-of-Distribution Image Without Learning From Out-of-Distribution Data | [CVPR' 20] | [pdf]
+- Generalized ODIN: Detecting Out-of-distribution Image without Learning from Out-of-distribution Data | [CVPR' 20] | [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hsu_Generalized_ODIN_Detecting_Out-of-Distribution_Image_Without_Learning_From_Out-of-Distribution_Data_CVPR_2020_paper.pdf)]
 - Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples | [ICLR' 18] | [pdf]
 - Learning Confidence for Out-of-Distribution Detection in Neural Networks | [arXiv' 18] | [pdf]
 - Out-of-Distribution Detection using Multiple Semantic Label Representations | [NIPS' 18] | [pdf]
