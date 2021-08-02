@@ -15,11 +15,11 @@ OOD Detection
 - Outlier Exposure with Confidence Control for Out-of-Distribution Detection | [arXiv' 19] | [pdf] [code]
 - Likelihood Ratios for Out-of-Distribution Detection | [NeurIPS' 19] | [pdf]
 - Outlier Detection in Contingency Tables Using Decomposable Graphical Models | [SJS' 19] | [pdf] [code]
-- Input Complexity and Out-of-distribution Detection with Likelihood-based Generative Models | [ICLR' 20] | [pdf]
-- Soft Labeling Affects Out-of-Distribution Detection of Deep Neural Networks | [ICML Workshop' 20] | [pdf]
-- Provable Worst Case Guarantees for the Detection of Out-of-distribution Data | [NeurIPS' 20] | [pdf] | [code]
-- On the Value of Out-of-Distribution Testing: An Example of Goodhart's Law | [NeurIPS' 20] | [pdf]
-- Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder | [NeurIPS' 20] | [pdf]
+- Input Complexity and Out-of-distribution Detection with Likelihood-based Generative Models | [ICLR' 20] | 
+- Soft Labeling Affects Out-of-Distribution Detection of Deep Neural Networks | [ICML Workshop' 20] | 
+- Provable Worst Case Guarantees for the Detection of Out-of-distribution Data | [NeurIPS' 20] | 
+- On the Value of Out-of-Distribution Testing: An Example of Goodhart's Law | [NeurIPS' 20] |
+- Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder | [NeurIPS' 20] | 
 - Energy-based Out-of-distribution Detection | [NeurIPS' 20] | 
 - Towards Maximizing the Representation Gap between In-Domain & Out-of-Distribution Examples | [NeurIPS' 20]
 - Why Normalizing Flows Fail to Detect Out-of-Distribution Data | [NeurIPS' 20] | 
