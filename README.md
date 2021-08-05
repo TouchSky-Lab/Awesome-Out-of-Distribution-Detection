@@ -20,7 +20,7 @@ OOD Detection
 - On the Value of Out-of-Distribution Testing: An Example of Goodhart's Law | [NeurIPS' 20] | [[paper](https://arxiv.org/pdf/2005.09241.pdf)] 
 - Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder | [NeurIPS' 20] | [[paper](https://arxiv.org/pdf/2003.02977.pdf)] 
 - Energy-based Out-of-distribution Detection | [NeurIPS' 20] | [[paper](https://arxiv.org/pdf/2010.03759.pdf)] 
-- Towards Maximizing the Representation Gap between In-Domain & Out-of-Distribution Examples | [NeurIPS' 20] | 
+- Towards Maximizing the Representation Gap between In-Domain & Out-of-Distribution Examples | [NeurIPS' 20] | [[paper](https://arxiv.org/pdf/2010.10474.pdf)][[code](https://github.com/jayjaynandy/maximize-representation-gap)]
 - Why Normalizing Flows Fail to Detect Out-of-Distribution Data | [NeurIPS' 20] | [[paper]()][[code](https://github.com/PolinaKirichenko/flows_ood)] | [[paper](https://arxiv.org/pdf/2006.08545.pdf)] 
 - Understanding Anomaly Detection with Deep Invertible Networks through Hierarchies of Distributions and Features | [NeurIPS' 20] | [[paper](https://arxiv.org/pdf/2006.10848.pdf)] 
 - Further Analysis of Outlier Detection with Deep Generative Models | [NeurIPS' 20] | 
