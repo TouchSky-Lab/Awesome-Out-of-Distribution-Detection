@@ -5,7 +5,7 @@ OOD Detection
 - A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks | [ICLR' 17] | [[paper](https://arxiv.org/pdf/1610.02136.pdf)] [[code](https://github.com/hendrycks/error-detection)] 
 - [ODIN] Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks | [ICLR' 18] | [[paper](https://arxiv.org/pdf/1706.02690.pdf)] [[code](https://github.com/facebookresearch/odin)]
 - Generalized ODIN: Detecting Out-of-distribution Image without Learning from Out-of-distribution Data | [CVPR' 20] | [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hsu_Generalized_ODIN_Detecting_Out-of-Distribution_Image_Without_Learning_From_Out-of-Distribution_Data_CVPR_2020_paper.pdf)]
-- Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples | [ICLR' 18] | [[paper](https://arxiv.org/pdf/1711.09325.pdf)] [[code]https://github.com/alinlab/Confident_classifier]
+- Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples | [ICLR' 18] | [[paper](https://arxiv.org/pdf/1711.09325.pdf)] [[code](https://github.com/alinlab/Confident_classifier)]
 - Learning Confidence for Out-of-Distribution Detection in Neural Networks | [arXiv' 18] | [[paper](https://arxiv.org/pdf/1802.04865.pdf)] 
 - Out-of-Distribution Detection using Multiple Semantic Label Representations | [NIPS' 18] | [[paper](http://papers.nips.cc/paper/7967-out-of-distribution-detection-using-multiple-semantic-label-representations.pdf)] 
 - A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks | [NIPS' 18] | [[paper](http://papers.nips.cc/paper/7947-a-simple-unified-framework-for-detecting-out-of-distribution-samples-and-adversarial-attacks.pdf)] 
