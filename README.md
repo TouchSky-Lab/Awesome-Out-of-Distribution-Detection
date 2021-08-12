@@ -32,7 +32,7 @@
 - Latent Space Autore- gression for Novelty Detection. CVPR 2019
 - Rapp: Novelty detection with reconstruction along projection pathway. ICLR 2019
 - OCGAN: One-class novelty detection using gans with constrained latent representation. 2019
-- Generative probabilistic novelty detection with adversarial autoencoders NIPS 2018
+- Generative probabilistic novelty detection with adversarial autoencoders NIPS 2018 [[code](https://github.com/podgorskiy/GPND)]
 - Out-of-distribution detection using neural rendering generative models.
 
 # Likehood-based OOD Detector
