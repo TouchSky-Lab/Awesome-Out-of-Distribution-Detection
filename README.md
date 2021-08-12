@@ -1,5 +1,3 @@
-# Awesome-Out-of-Distribution-Detection
-OOD Detection
 
 # Out-of-Distribution Detection 
 - A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks | [ICLR' 17] | [[paper](https://arxiv.org/pdf/1610.02136.pdf)] [[code](https://github.com/hendrycks/error-detection)] 
@@ -18,13 +16,28 @@ OOD Detection
 - Soft Labeling Affects Out-of-Distribution Detection of Deep Neural Networks | [ICML Workshop' 20] | [[paper](https://arxiv.org/abs/2007.03212)] 
 - Provable Worst Case Guarantees for the Detection of Out-of-distribution Data | [NeurIPS' 20] | [[paper](https://arxiv.org/pdf/2007.08473.pdf)] 
 - On the Value of Out-of-Distribution Testing: An Example of Goodhart's Law | [NeurIPS' 20] | [[paper](https://arxiv.org/pdf/2005.09241.pdf)] 
-- Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder | [NeurIPS' 20] | [[paper](https://arxiv.org/pdf/2003.02977.pdf)] | [[code](https://github.com/XavierXiao/Likelihood-Regret)]
-- Energy-based Out-of-distribution Detection | [NeurIPS' 20] | [[paper](https://arxiv.org/pdf/2010.03759.pdf)] 
 - Towards Maximizing the Representation Gap between In-Domain & Out-of-Distribution Examples | [NeurIPS' 20] | [[paper](https://arxiv.org/pdf/2010.10474.pdf)][[code](https://github.com/jayjaynandy/maximize-representation-gap)]
 - Why Normalizing Flows Fail to Detect Out-of-Distribution Data | [NeurIPS' 20] | [[paper]()][[code](https://github.com/PolinaKirichenko/flows_ood)] | [[paper](https://arxiv.org/pdf/2006.08545.pdf)] 
 - Understanding Anomaly Detection with Deep Invertible Networks through Hierarchies of Distributions and Features | [NeurIPS' 20] | [[paper](https://arxiv.org/pdf/2006.10848.pdf)] 
 - Further Analysis of Outlier Detection with Deep Generative Models | [NeurIPS' 20] | 
 - CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances | [NeurIPS' 20] | [[paper](https://arxiv.org/pdf/2007.08176.pdf)][[code](https://github.com/alinlab/CSI)]
+
+
+
+# Classifier-based OOD Detector
+
+
+# Reconstruction-based OOD Detector
+- Energy-based Out-of-distribution Detection | [NeurIPS' 20] | [[paper](https://arxiv.org/pdf/2010.03759.pdf)] 
+- Latent Space Autore- gression for Novelty Detection. CVPR 2019
+- Rapp: Novelty detection with reconstruction along projection pathway. ICLR 2019
+- OCGAN: One-class novelty detection using gans with constrained latent representation. 2019
+- Generative probabilistic novelty detection with adversarial autoencoders NIPS 2018
+- Out-of-distribution detection using neural rendering generative models.
+
+# Likehood-based OOD Detector
+- Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder | [NeurIPS' 20] | [[paper](https://arxiv.org/pdf/2003.02977.pdf)] | [[code](https://github.com/XavierXiao/Likelihood-Regret)]
+
 
 
 # Out-of-Distribuiton with Few-shot Learning
