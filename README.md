@@ -1,20 +1,5 @@
 
 # 1 Out-of-Distribution Detection 
-- A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks | [ICLR' 17] | [[paper](https://arxiv.org/pdf/1610.02136.pdf)] [[code](https://github.com/hendrycks/error-detection)] 
-- Out-of-Distribution Detection using Multiple Semantic Label Representations | [NIPS' 18] | [[paper](http://papers.nips.cc/paper/7967-out-of-distribution-detection-using-multiple-semantic-label-representations.pdf)] 
-- A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks | [NIPS' 18] | [[paper](http://papers.nips.cc/paper/7947-a-simple-unified-framework-for-detecting-out-of-distribution-samples-and-adversarial-attacks.pdf)] 
-- Deep Anomaly Detection with Outlier Exposure | [ICLR' 19] | [[paper](https://openreview.net/pdf?id=HyxCxhRcY7)] 
-- Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem | [CVPR' 19] | [[paper](https://arxiv.org/pdf/1812.05720.pdf)] 
-- Outlier Exposure with Confidence Control for Out-of-Distribution Detection | [arXiv' 19] | [[paper](https://arxiv.org/abs/1906.03509v2)]  [[code](https://github.com/nazim1021/OOD-detection-using-OECC)]
-- Outlier Detection in Contingency Tables Using Decomposable Graphical Models | [SJS' 19] | [[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/sjos.12407)]  [[code](https://github.com/mlindsk/molic)]
-- Soft Labeling Affects Out-of-Distribution Detection of Deep Neural Networks | [ICML Workshop' 20] | [[paper](https://arxiv.org/abs/2007.03212)] 
-- Provable Worst Case Guarantees for the Detection of Out-of-distribution Data | [NeurIPS' 20] | [[paper](https://arxiv.org/pdf/2007.08473.pdf)] 
-- On the Value of Out-of-Distribution Testing: An Example of Goodhart's Law | [NeurIPS' 20] | [[paper](https://arxiv.org/pdf/2005.09241.pdf)] 
-- Towards Maximizing the Representation Gap between In-Domain & Out-of-Distribution Examples | [NeurIPS' 20] | [[paper](https://arxiv.org/pdf/2010.10474.pdf)][[code](https://github.com/jayjaynandy/maximize-representation-gap)]
-- Why Normalizing Flows Fail to Detect Out-of-Distribution Data | [NeurIPS' 20] | [[paper]()][[code](https://github.com/PolinaKirichenko/flows_ood)] | [[paper](https://arxiv.org/pdf/2006.08545.pdf)] 
-- Understanding Anomaly Detection with Deep Invertible Networks through Hierarchies of Distributions and Features | [NeurIPS' 20] | [[paper](https://arxiv.org/pdf/2006.10848.pdf)] 
-- Further Analysis of Outlier Detection with Deep Generative Models | [NeurIPS' 20] | 
-
 ## 1.1 Classifier-based OOD Detector
 - [ODIN] Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks | [ICLR' 18] | [[paper](https://arxiv.org/pdf/1706.02690.pdf)] [[code](https://github.com/facebookresearch/odin)]
 - Generalized ODIN: Detecting Out-of-distribution Image without Learning from Out-of-distribution Data | [CVPR' 20] | [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hsu_Generalized_ODIN_Detecting_Out-of-Distribution_Image_Without_Learning_From_Out-of-Distribution_Data_CVPR_2020_paper.pdf)]
@@ -34,6 +19,23 @@
 - OCGAN: One-class novelty detection using gans with constrained latent representation. | CVPR 2019 | [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Perera_OCGAN_One-Class_Novelty_Detection_Using_GANs_With_Constrained_Latent_Representations_CVPR_2019_paper.pdf)]
 - Generative probabilistic novelty detection with adversarial autoencoders. | NIPS 2018 | [[paper](https://papers.nips.cc/paper/2018/file/5421e013565f7f1afa0cfe8ad87a99ab-Paper.pdf)] [[code](https://github.com/podgorskiy/GPND)]
 - Out-of-distribution detection using neural rendering generative models. | Computer Science, Mathematics 2019 ||[[paper](https://arxiv.org/pdf/1907.04572.pdf)]
+
+## 1.4 
+- A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks | [ICLR' 17] | [[paper](https://arxiv.org/pdf/1610.02136.pdf)] [[code](https://github.com/hendrycks/error-detection)] 
+- Out-of-Distribution Detection using Multiple Semantic Label Representations | [NIPS' 18] | [[paper](http://papers.nips.cc/paper/7967-out-of-distribution-detection-using-multiple-semantic-label-representations.pdf)] 
+- A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks | [NIPS' 18] | [[paper](http://papers.nips.cc/paper/7947-a-simple-unified-framework-for-detecting-out-of-distribution-samples-and-adversarial-attacks.pdf)] 
+- Deep Anomaly Detection with Outlier Exposure | [ICLR' 19] | [[paper](https://openreview.net/pdf?id=HyxCxhRcY7)] 
+- Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem | [CVPR' 19] | [[paper](https://arxiv.org/pdf/1812.05720.pdf)] 
+- Outlier Exposure with Confidence Control for Out-of-Distribution Detection | [arXiv' 19] | [[paper](https://arxiv.org/abs/1906.03509v2)]  [[code](https://github.com/nazim1021/OOD-detection-using-OECC)]
+- Outlier Detection in Contingency Tables Using Decomposable Graphical Models | [SJS' 19] | [[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/sjos.12407)]  [[code](https://github.com/mlindsk/molic)]
+- Soft Labeling Affects Out-of-Distribution Detection of Deep Neural Networks | [ICML Workshop' 20] | [[paper](https://arxiv.org/abs/2007.03212)] 
+- Provable Worst Case Guarantees for the Detection of Out-of-distribution Data | [NeurIPS' 20] | [[paper](https://arxiv.org/pdf/2007.08473.pdf)] 
+- On the Value of Out-of-Distribution Testing: An Example of Goodhart's Law | [NeurIPS' 20] | [[paper](https://arxiv.org/pdf/2005.09241.pdf)] 
+- Towards Maximizing the Representation Gap between In-Domain & Out-of-Distribution Examples | [NeurIPS' 20] | [[paper](https://arxiv.org/pdf/2010.10474.pdf)][[code](https://github.com/jayjaynandy/maximize-representation-gap)]
+- Why Normalizing Flows Fail to Detect Out-of-Distribution Data | [NeurIPS' 20] | [[paper]()][[code](https://github.com/PolinaKirichenko/flows_ood)] | [[paper](https://arxiv.org/pdf/2006.08545.pdf)] 
+- Understanding Anomaly Detection with Deep Invertible Networks through Hierarchies of Distributions and Features | [NeurIPS' 20] | [[paper](https://arxiv.org/pdf/2006.10848.pdf)] 
+- Further Analysis of Outlier Detection with Deep Generative Models | [NeurIPS' 20] | 
+
 
 
 #  2. Out-of-Distribuiton Detection with novel techniques
