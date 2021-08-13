@@ -29,11 +29,11 @@
 
 # Reconstruction-based OOD Detector
 - Energy-based Out-of-distribution Detection | [NeurIPS' 20] | [[paper](https://arxiv.org/pdf/2010.03759.pdf)] 
-- Latent Space Autore- gression for Novelty Detection. CVPR 2019
-- Rapp: Novelty detection with reconstruction along projection pathway. ICLR 2019
-- OCGAN: One-class novelty detection using gans with constrained latent representation. 2019
-- Generative probabilistic novelty detection with adversarial autoencoders NIPS 2018 [[code](https://github.com/podgorskiy/GPND)]
-- Out-of-distribution detection using neural rendering generative models.
+- Latent Space Autore- gression for Novelty Detection| CVPR 2019 | [[paper](https://arxiv.org/pdf/1807.01653.pdf)]
+- Rapp: Novelty detection with reconstruction along projection pathway| ICLR 2019 | [[paper](https://openreview.net/forum?id=HkgeGeBYDB)]
+- OCGAN: One-class novelty detection using gans with constrained latent representation. | CVPR 2019 | [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Perera_OCGAN_One-Class_Novelty_Detection_Using_GANs_With_Constrained_Latent_Representations_CVPR_2019_paper.pdf)]
+- Generative probabilistic novelty detection with adversarial autoencoders. | NIPS 2018 | [[paper](https://papers.nips.cc/paper/2018/file/5421e013565f7f1afa0cfe8ad87a99ab-Paper.pdf)] [[code](https://github.com/podgorskiy/GPND)]
+- Out-of-distribution detection using neural rendering generative models. | Computer Science, Mathematics 2019 ||[[paper](https://arxiv.org/pdf/1907.04572.pdf)]
 
 # Likehood-based OOD Detector
 - Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder | [NeurIPS' 20] | [[paper](https://arxiv.org/pdf/2003.02977.pdf)] | [[code](https://github.com/XavierXiao/Likelihood-Regret)]
